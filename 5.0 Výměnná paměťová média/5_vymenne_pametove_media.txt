@@ -1,0 +1,22 @@
+a) Rozdìlení a charakteristika - co sem patøí(otázka u maturity) - patøí sem magnetické, optické a magnetoopické disky....
+Charakteristika - je to mobilní a pomalý, nepøíjde o data (voatilní), nepotøebuji refresh, kapacita je omezená, mùžou se poškodit, rychlost ètení a zápisu, cena za kapacitu (cena zaøízeí a za kapacitu)
+
+b) Megnetické disky - disketa, vhs, floptické disky, zip, Iomega Jaz, SyJet
+
+floptické dísky?
+
+
+
+c) Optické disky - poživaj se dlouho - tudiž u maturity rozšíøené - cd, dvd
+jak se vyrábìjí? 
+co je cd-r?
+cd rw?
+lisované
+cdrom
+kapacita cd - 700 mb
+rozmìry cd? (asi nebudu chtít)
+jak se rozmìrovì liší dvd od cd? - je uplnì stejné aby to bylo kompatibilní
+d) Magnetoopické disky - døive drahá záležitost
+Jak to funguje? - kombinace magnetizace a optiky... Na optickou plochu zamíøí lazer a nahøeje jí... pøepíše jí nebo smaže... https://www.root.cz/clanky/magnetoopticke-disky/
+princip je stejný jako optického disku
+odolný proti všemu... dlouhá výdrž... vysoká kapacita než cd... nevýhoda je cena

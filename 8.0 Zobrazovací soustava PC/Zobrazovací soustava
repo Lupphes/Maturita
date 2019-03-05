@@ -1,0 +1,56 @@
+Zobrazovací soustava - 8
+
+Paramertry
+Rozhraní
+Připojení na mB
+Frekvence - jádra, paměť
+Typ chladiče - aktivní, pasivní, kombinované
+Kapacita paměti GPU
+Výstupy
+
+Typy GPU
+Interní - nižší výkon, levnější
+Externí - dražší, větší spotřeba, vlastní paměť a procesor
+
+Součást GPU
+GPU, VRAM, DAC
+
+GPU
+Grafický procesor
+Přijímá data z procesoru
+Shadery, řadič paměti, TMU jednotky, ROP jednotky
+Shader - část čipu která zpravocává
+
+VRAM
+Data pro grafické výpočkty
+interní karty poučivají chladéče
+
+DAC
+Digital to analog conventor
+Převádí signál z digitálního na analogový
+
+Rozhraní
+ISA
+EISA
+AGP
+PCI
+PCIe
+- PCI 16x
+
+Výstupy
+S-Video
+D-Sub (VGA)
+DVI
+ - DVI-I
+ - DVI-D
+ - Single link
+ - Dual link
+HDMI
+Displayport
+
+Výrobce čipů grafických karet:
+AMD, nVidia
+
+Rozlišení
+Pixelech
+4K, 8K

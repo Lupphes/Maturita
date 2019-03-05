@@ -1,0 +1,34 @@
+a) Virtualizace a její druhy, nasazení, vlastnosti
+
+co to je virtualizace - virtuální systém v systému (nemusí se systém virtualizace)
+Plná, para, kontejnerová, emulace virtualizace
+https://cs.wikipedia.org/wiki/Virtualizace
+u maturity si nechám vyjmenovat typy virtualizací... jednu si vyberte a povídejte o ní nìco víc (nejjednodušší je kontenerová)
+Emulace - provozování softwaru na hardwaru pro které není urèený
+Sandbox - ? 
+Nejvìtší problém emulaca - nároènost
+
+b) Active direcroty, LDAP, cestovní profil
+
+Active direcroty - Microsoft záležitost, správa uživatelù
+
+LDAP - protokol, který se stara o active directory
+OLDAP - linux protokol (active directory)
+
+cestovní profil - frofil uložený na serveru a když se pøipojim z jakékoliv pracovní stanici, tak se ze serveru natahuje cestovní profil (prostøedí zùstává stejné jako na našem nastaveném cestovním profilu)
+lokálné profil - profil na každém poèítaèi
+c) Souborové systémy a adresová struktura
+- organizace dat ve formì souborù
+- NTFS
+- EXFAT
+ u maturity rozdíly mezi systémama
+
+co je inote? - datová struktura uchovávající metadata o souborech a adresáøích používaná v unixových souborových systémech
+adresová struktura - jak vypadá root na linuxu a windowsech ( na linuxech slash --- windows....)
+jak funguje fatabulka
+
+
+d) Vzdálená správa, nástroje a protokoly
+co to je vzdálená správa?
+ocávaèka
+protokoly pro vzdálenou správu

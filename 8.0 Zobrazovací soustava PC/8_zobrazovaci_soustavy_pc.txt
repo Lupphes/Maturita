@@ -1,0 +1,15 @@
+Jak je toho u tıhle otázky málo, tak to musíš všechno umìt - je to jednoduché
+
+Zobrazovací soustava pc
+a) Vırobci, souøástí a typy grafickıch karet
+Vırobci - 
+Spoustu firem dìlá pro jiné vırobce èipy a ty firmy je potom prodávají pod svojí znaèkou
+Co má grafická karta - CPU, pøídavné funkce, pamì, konektoru, pøídavné procesory - shadery (pixel, geometri, vertex)
+Typy grafickách garet - interní, dedikovaná a externí
+Grafické èipy - amd, ati, nvidia, intel, matrox, 3dfix, s3drio
+
+b) Paremetry obrazu - poèet barev - udává se v bitech (24 bit - 8 bit na kadou sloku rgb), rozlišení, úhlopøíèka, frenkvence - pamìti, základního èipu, shaderù, propustnost, šíøka, napájení, sbìrnice
+
+Sbìrnice - Gpi, isa, eisa, local bus, pci, agp, pci express
+
+c) Pøipojení zobrazovací jednotky - vga, d-sub, hdmi, displayporty (vše o nich - digitální, analogové atd...)

@@ -1,0 +1,13 @@
+Systémové oprávnìní - spuštìní jako správce
+
+Vlastníci na linuxu
+1) OWNER
+2) GROUPS
+3) OTHERS
+
+Oprávnìní na linucu
+1) READ
+2) WRITE
+3) EXECUTE
+
+Pøíkazy 

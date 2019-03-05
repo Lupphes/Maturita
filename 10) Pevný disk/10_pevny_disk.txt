@@ -1,9 +1,0 @@
-Pevný disk
-co je to pevný disk?
-parametry - najdu na netu
-poèet zapisu
-claster? - vìtší než sektor - protože sektor je nejmenší jednotka disky
-a) parametry a charakteristika
-b) fyzická a logická struktura - poèet ploten, cylindry, stropy, sektrory
-c) typy rozhraní - ata, sata, pata
-d) konfigurace
