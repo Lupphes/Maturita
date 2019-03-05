@@ -1,0 +1,23 @@
+Síové modely a architektura
+Topologie - sitová topologie popisuje jakım zpsobem jsou síové prvky uspoøádány
+Dìlí se na logickou a fyzikou
+Logická popisuje jakım zpùspbem jednotlivé prvky získavají pøístup k odesílání informací po síti.
+Má 2 nejpoušívanejší metody, které se starají o pøístup...
+Broadcast - všechna zaøízení zasílají data ostatním zaøízení v síti
+Token passing - mezi zaøízeními se posílá tvz. známka nebo pešek. Ta povoluje odesílání informací.
+Fyzická - udává jakım zpùvobem jsou jednotlivá zaøízení spolu propojeny
+Sbìrnicová - realizovaná pomocí souvislého koaxiálního kabelu a T rozboèovaèe. Je pomalá, v jeden okamik lze posílat pouze jedny data, vhodná pro doèasné sítì.
+kruhová - podobnı princip jako sbìrnicová. Nedochází ke kolizím, protoe data jsou posílány jedním smìre.
+Hvìzdicová - uprostøed switch nebo hub - switch rozezná jakému zaøízení data zaslat a hub je rozesílá všem
+mesh - kadá s kadım
+stromová - stejná jako hvìzdicová pro vìtší firmy
+ISO\OSI - referenèní model, firma iso, 7 vrstev, nad a pod
+fyzická - pøenos bitu, zabıvá se kabely a medii
+linková - pøenost vìtších dat, packety, llc, mac
+sítova - adresuje a smìruje, packety a datagramy, zná topologii sítì
+transportní - zesílení pøenosù, skoroto to samé jako sítova, ale nestará se o smìrování
+relaèní - zajišuje støídání zaøízení v pøenosu
+prezentaèní - stará se o kodovaní
+aplikaèni - komunikace s aplikacemi
+
+tcp/ip

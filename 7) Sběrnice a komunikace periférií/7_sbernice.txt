@@ -1,0 +1,31 @@
+Letos vypadlo na tuto otázku nejvíc lidí (3 lidi)
+Pùlka otázky je o IRQ A DMA (musí se umìt do podrobna)
+7) Sbìrnice a komunikace periferii
+
+a) Rozdìlení a vlastnosti zbìrnic - sýstémové, lokální a vnìjší sbìrnice (vzdálenost od procesoru) - procesor = systémová a datová
+FSB - front side bus
+QPI - Intel QuickPath Interconnect
+PCI Express 
+seriová vs pararelní = která je rychlejší? - za urèitého pøedpokladu je rychlejší paralerní (když má stejnou frekvenci), když nezáleží na frekvenci, tak seriová je rychlejší (frekvence lze zvednout)
+skin effect ? - elektrony jsou nosièe náboje, když se zvedne frekvence, tak nastane odstøedivá síla a elektrony se budou navzájem rušit (cross talk)
+double data rate
+synchroní - èeká na clock (øízený hodinovým signálem)
+asynchroní - nesoudobý
+
+simplex - jedním smìrem
+fullduplex - tam a zpìt (oba smìry)
+Halfduplex  - oba smìry, ale musí se støídat (vysílaèka)
+
+1 GH procesor - 1 miliarda operací za 1 sekundu
+
+co rešim u sbìrnice - rchlost - bity za sekundu
+                    - šírka - bity
+                    - datový tok (propustnost)
+
+b) Konektory sbìrnic - vytáhnu desku a ukaž mi tady nìjáký sbìrnice
+c) IRQ - žádost o pøerušení, každá periferie má pøidìlený nìjáký èíslo ("ip sbìrnice")
+Druhy pøerušení - vnitøní (stack overflow)
+                - vnìjsí (pøerušení dodávky energie, z klávesnice)
+                - maskovaný 
+                - nezamaskovatelný
+d) DMA - direct memory access - pøímý pøístup do pamìti (radiè - procesor) - princip  

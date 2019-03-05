@@ -1,0 +1,20 @@
+Technologie tisku
+první tiskárny? - znakové
+bitmapové a vektorové fontyS
+Co to je tiskárna? -  zaøízení, které slouží k pøenosu dat uložených v elektronické podobì na papír nebo jiné médium
+znaková tiskarna, øetìtová, bubnová, jehlièková - skupina udetových tiskáren
+vyber si jednu tiskárnu a popiš nám jí
+jehlièková ze zaèátku 1, 2, 9, 18, 32
+https://tiskarny.heureka.cz/poradna/jak-vybirat-tiskarnu/
+inkoustová tiskárna - trysky
+bubblejet tiskárny
+piezo tiskárny
+voskové tiskárny
+termosublimaèní tiskárny - fototiskárny
+termická tiskárna - jehla, která se zahøejvá a pøiblíží se ke speciálnímu papíru
+bubblejet vs piezo - rozpíjení papíru, odchází rychleji hlavy
+Lazar neosvicuje papír
+a) Vlastnosti a parametry tisku - rozlišení (dpi), rychlost tisku, barva, typ, pøipojení, oboustraný tisk    
+b) principy jednotlivých druhù tiskáren
+c) skládání barev
+d) plottery

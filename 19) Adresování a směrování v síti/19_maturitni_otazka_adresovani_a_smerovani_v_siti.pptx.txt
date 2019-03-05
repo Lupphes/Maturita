@@ -1,0 +1,220 @@
+Adresováí a smìrování v síti
+
+Síové prvky
+
+aktivní
+- ovlivìní provozu
+- od 2. vrstvy ISO/OSI
+
+pasivní
+- fyzickı pøenos
+- nezasahuje do dat
+
+Switch
+-2. vrstva
+- Tabulka mac adres
+
+L3 swtch
+- ASIC místo SW
+- "Oivìnìjší" ne router
+
+Vıhody - cena za port
+
+Router
+- 3. vrstva
+- horší pomìr cena/port
+- Routovací tabulka
+- smìrování
+ 1) packet
+ 2) vyhledávání v tabulce
+ 3) odesílání/zahození
+
+Firewll
+- 4. vrstva
+- Filtrování portu
+- SW + HW
+
+Kroucená dvojlinka
+Koaxial
+- Provìøenı dobou
+Rozsáhlé monosti vyuití
+- tv
+
+Optickı kabel
+- Svazek optickıch vlákem
+- pøenost => svìtlo
+ - totální lom
+
+Vıhody
+- Pøenosové rychlosti
+- Dlouhá maximální vzdálenost pøenosu
+- Odolnost proti rušení a pøeslechU
+
+Operaèní systém
+- Rùzné urèení
+ - klientské stanice (Windows, Linux, Mac)
+ - pc Smartphone
+
+Servery - window, linuc
+
+PuTTy 
+- SSH, Telnet, Rlogin
+- Pùvodnì jen Windows
+- Nyní u i další
+
+WireShark
+- Døíve Ethereal
+- Prùzkum komunikace
+- Primárním uèelem komunikace
+
+Apache
+- Softwarovı webovı server
+- Nejbìšnìjší
+- Mnoho technologii
+- Variabilní platforem
+- XAMPP, LAMPP, WAMPP
+ - Vše v jednom
+
+Sítì podle rozsahu
+
+- PAN
+- LAN
+- MAN
+- WAN
+- GAN
+
+Podle postavení klientù
+- clent-server
+- ádost klienta vùèi serveru
+- webovı server
+
+Peer-to-peer
+
+Konfigurace
+Základní konfigurace
+- Jméno
+- Pøístupy
+ - údaje
+ - práva
+Komunikace
+ - SSH
+ - Telnet
+ - Konzole
+
+Bezpeènost portù
+Povolení MAC
+ - statické
+ - dynamické
+ - sticky
+Zabezpeèení
+- Protected
+- restrict
+- shutdown
+Vypnutí nepotøebnıch portù (nechat zaplé jen ty potøebné)
+
+Virtual LAN 
+- Minimálnì jedna => defaultní
+- Nativní VLAN
+ - rámce bez tagu
+- trunk
+- InterVLAN routing
+  potøeba router
+- VTP 
+ - sdílení nastavìnıch vlan
+
+Routování
+- smìrování packetu
+- routovací tabulka
+- statické
+ - naplnìní manuálnì
+- Dynamické
+ - naplnìní pøes protokoly (OSPF, EIGRP)
+
+Adresace
+- Manuálnì
+ - zaøízení sdílení na síti
+
+Access list
+- filtr provozu
+- ètení shora
+ - nakonci pravidlo zakazující vše
+- Wildcard mask
+
+NAT
+- pøehled adres
+- vnitøní a vnìjší rozhraní
+statická
+dynamická
+
+PAT
+- dynamická a statickı
+- TCP/UDP port
+
+IP adresace
+- Mac adresa
+ - 6*8 bitù (24 bitù pro vırobce + 24 bit pro unikátní rozetnání)
+IP adresa
+- 3. síová vrstva
+- IPV4
+ - 32 bitu
+- IPV6
+ - 128 bitu
+
+DHCP 
+- dynamické pøidìlení adres
+- komunikace pøi pøipojení
+
+DNS
+- Jmená adres <=> IP adresa
+- ádost DNS serveru
+- Odpovìï DNS serveru
+
+Ethernet
+- první a druhá vrstva
+- konkurentem wifi
+
+Inthernet protokol
+- soubor pravidel
+
+Telnet
+- Teletype network
+- komunikace v textové formì
+- nešifrování
+- èásteènì nahrazen SSH
+- souèástí windows
+
+Protokoly 4. vrstvy
+TCP
+- Všechna data ve správnìm poøadí
+- udrování spojení
+- FTP, HTTP
+UDP
+- Nenavazuje spojení
+- Bez kontroly
+- VoIP, online hry(vìtšinou kombinace TCP + UDP)
+
+Internet Control Message Protocol
+
+HTTPS
+- Pøenos hypertextovıch souborù
+- Vyvynuté
+- Pøenos dalších dat
+
+SMTP
+- odesílání emailovıch zpráv
+
+POP + IMAP
+POP
+- zpravu potøeba stáhnout
+- Po staení smazány
+IMAP
+-
+
+FTP, FTPS, SFTP
+- Pøenost souborù
+
+- pøidat do prezentace!!!
+store and forward
+cat true
+zaplavové smìrování?
+znát protokoly na kadı vrstvì
