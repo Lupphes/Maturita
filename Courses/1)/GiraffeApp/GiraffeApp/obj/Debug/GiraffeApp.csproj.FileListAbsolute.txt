@@ -1,0 +1,7 @@
+C:\Users\ondre\OneDrive\Plocha\Courses\1)\GiraffeApp\GiraffeApp\bin\Debug\GiraffeApp.exe.config
+C:\Users\ondre\OneDrive\Plocha\Courses\1)\GiraffeApp\GiraffeApp\bin\Debug\GiraffeApp.exe
+C:\Users\ondre\OneDrive\Plocha\Courses\1)\GiraffeApp\GiraffeApp\bin\Debug\GiraffeApp.pdb
+C:\Users\ondre\OneDrive\Plocha\Courses\1)\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.csprojAssemblyReference.cache
+C:\Users\ondre\OneDrive\Plocha\Courses\1)\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.csproj.CoreCompileInputs.cache
+C:\Users\ondre\OneDrive\Plocha\Courses\1)\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.exe
+C:\Users\ondre\OneDrive\Plocha\Courses\1)\GiraffeApp\GiraffeApp\obj\Debug\GiraffeApp.pdb

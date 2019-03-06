@@ -1,0 +1,36 @@
+.cs - C# file
+
+Class - container for storing code and then execute it
+
+method/function - container for code :c 
+	Main()
+
+	Console.WriteLine("Hello World");
+	Console.ReadLine();
+
+
+Variables, Data types - containers which can store values
+	string "name" = "I'm variable of text";
+	char "name" = '#'; // One single char :c
+
+	int "name" = 89; // negative number too
+
+	float "name" = 3.1
+	double "name" = 3.2;
+	decimal "name" = 3.3;
+
+	bool "name" = true; // false;
+
+	\n - new line
+	\" - printing '"'
+
+
+String
+	.Length() - counts chars
+	.ToUpper() - uppercase
+	.ToLower() - lowercase
+	.Contains("word")
+	.IndexOf("Academy") // when starts this word position
+	.Substring() //grab parth of string
+
+phrase[0] - array of chars
