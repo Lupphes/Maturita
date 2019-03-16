@@ -1,0 +1,6 @@
+﻿1. Postava load - txt - zjistí jestli je postava vytvořená
+		      - Vytvoří ji pokud není
+2. Inicializace a Reinicializace hry
+3. ComboBox - volba postav - útok, health (max = undefined; min = 0), defence, attack, level, luck
+		  - lokací - unlocked, locked
+4. Čas a regenerace, změna na noční režim (formulář)
