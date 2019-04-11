@@ -1,0 +1,55 @@
+Parametry grafické karty
+ - Vırobce - doupøesnit, e je to vırobce té desky (sestavy, nevim jak to nazvat :D )
+ - Frekvence
+  - 1 860 ? Kde ? :D 
+  - Shader
+   - Vector ? Nemyslel si vertex
+   - Geometry - Chybí
+   - Nutno dodat, e shader není HW, ale jen program
+   - Stream proccessor
+    - Nvidia pouívá cuda(nebo alespoò pouívala, nevím jak je to teï)
+    - Dopsal bych, e slouí pro zpracování jednotlivıch pixelù a obecnì obrazu
+    - Døíve musel bıt na kadı typ shaderu vyhrazen vlastní procesor, dnes unified
+  - Pamì
+   - Doplò GDDR3 - Mohli by se na to zeptat - Asi by koukali, kdybys mluvil o GDDR4 :D 
+   - Zde souhlasím, pouze bych dopsal, e v pøípadì vyplítvání pøesunuty data co se nevejdou do RAM
+  - FLOPS - Dopsal bych, e vyjadøuje poèet operací s plovoucí desetinnou èárkou, keré zvládne HW vykonat za sekundu
+  - Adaptivní v-sync - dopsal bych sem nìjaké info, je to podle mì celkem awesome vìc, Klasickej, FreeSync, Gsync
+  
+
+Parametry obrazy - Parametry obrazu
+ - Barevná hloubka
+  - Udává se v bitech
+  - Èasto s dopoètem
+   - FRC
+   - 6-bit + FRC = 8bit
+   - 8-bit + FRC = 10bit
+   - Pøeblikávání pixelù - citlivı jedinci mohou mít problémy
+ - Kontrast
+  - Statickı, dynamickı
+  - TN nejvyšší, VA druhı nejvyšší, IPS nejniší
+ - Odezva GTG, MBR, BTB
+ - Dodal bych aspect ratio
+ 
+
+Vırobci
+ - Intel - ne interní, ale integrované
+
+Typy
+ - Integr
+  - zmínil bych, e jako VRAM slouí pouze RAM
+
+Souèásti GPU
+ - S tìma ovladaèema to není úplnì pravda
+  - Nìjakı ovladaè mít musí, to je pravda
+  - Uznávám, e nevím jak je to u Linuxu a MacOS, ale WIN10 má univerzální kterı v pøípadì absence ovladaèe od vırobce pøevezme jeho funkci
+
+Rozhraní
+ - S-Video chybí
+
+Spojení grafickıch karet
+ - SLI
+  - Pokud vím, high-end karty ho stále obsahují
+   - GTX 1070, 1080, 1080ti, 2080, 2080ti
+ - Zmínil bych, e mohou nastat nepøíjemnosti zpùsobené zpodením komunikace mezi spojenımi GPU
+  - Microstuttering
