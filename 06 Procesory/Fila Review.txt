@@ -1,0 +1,26 @@
+Architektura
+ - jaká instrukce - jaké instrukce
+ - RISC - jednoduchı - jednoduchıch
+
+ - Pipelining - to by podle mì nemìlo bıt jako samostatnı typ - to je jen souèást skalárního procesoru
+ - Co superskalární architektura ?
+
+Typ
+ - Vycházení - vycházejí
+
+Von Neumannova
+ - Pamìti buòky - pamìové buòky 
+
+Druhy
+ - Chybí APU
+
+Parametry
+ - otevøenı/uzavøenı násobiè
+ - úrovnì cache
+
+Struktura
+ - øadice - kombinace mnoného a jednotného èísla :D 
+ - univerzální - asi bych tu definici trochu pøeformuloval
+
+Taktování
+ - uivatelé si - si uivatelé

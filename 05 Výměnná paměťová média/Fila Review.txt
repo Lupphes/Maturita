@@ -1,0 +1,41 @@
+CD-ROM - Nadpis dvakrát nad sebou
+CD-ROM - ReadOnly - Read Only Memory
+
+CD-R (Recordable)
+Disk je prázdnı a uivatel pomocí vypalovaèky vypálí do nìj svoje data. Princip spoèívá v odrazivosti barviva média. Laser se zahøeje na teplotu kolem 300° a vypálí barvivo z míst kam chce uivatel zapsat 0.
+
+CD-R (Recordable)
+ - Disk je prázdnı a uivatel na nìj za pomoci vypalovaèky vypálí svoje data. Princip spoèívá v odrazivosti barviva média. Laser se zahøeje na teplotu kolem 300° a vypálí barvivo z míst kam chce uivatel zapsat 0.
+ - Moná byh doplnil, e k zápisu potøebuješ mechaniku, která umí vypalovat
+
+CD-RW
+ - kole - kolem
+ - ty to - tyto
+ - liší jak barvio odrazivostí - liší odrazivostí barviva
+ - chlazení - zchlazení
+
+DVD
+ - Vrstvy + strany - popsal bych co to tím je myšlené
+ - R-/RW
+  - Nejvíce kompatibilní s DVD ????? Není myšlené CD? Uvedl bych ještì proè
+ - Uvedl bych vıhodu, e je moné náhodnì pøistupovat k datùm
+
+Princip ètecí hlavy
+ - Není vlnová délka u Blu-ray
+
+USB flash disky
+ - Male - Malé
+
+Pamìové karty
+ - apod.3. ??
+
+SSD
+- Velkı pomìr cena/pamì.
+  - Napsal bych špatnı pomìr cena / kapacita
+  - Uvedl bych, e je typická kombinace SSD + HDD
+
+- Chybí mi tam trochu SSHD
+ - Nejsou sice pøímo flash, ale mají malou SLC cache
+
+
+

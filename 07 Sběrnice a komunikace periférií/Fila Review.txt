@@ -1,0 +1,16 @@
+Dìlení
+ Podle Funkce
+  - Adresové - šíøka urèuje - èárka navíc
+AGP
+ - (pøebírá nìkteré funkce CPU) - Napsal bych nìjaký pøíklad
+
+Patice
+ - LGA, PGA, BGA - Skoro urèitì se na to zeptaj, chce to doplnit
+ - QPI - Vícejaderných, není to fyzika ? :D Spíše vícejádrových
+
+DMI
+ - Má - má ( I know I'm not the one who should say something about grammar :D )
+
+Komunikace
+ - Mùže se stát - Mohou se stát
+ - Programable - Programmable
