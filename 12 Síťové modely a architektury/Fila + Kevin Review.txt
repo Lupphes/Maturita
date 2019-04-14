@@ -1,0 +1,29 @@
+Topologie sítí
+ 
+ Sbìrnicová topologie
+  - krátce bych napsal co to je
+  - CSMA - doplnit na CSMA/CD
+ 
+ Kruhová topologie 
+  - doplnit, e poèítaè mluví pouze ve chvíli kdy má token
+
+
+Logická struktura
+ 
+ Broadcast
+  - broadcast doména chybí
+
+ Point-to-point
+  - jsou to 2 zaøízení
+
+
+Síové modely
+ 
+ Fyzická vrstva
+  - prošli bychom ty pøíklady, podle nás to není zrovna ideální
+
+ Transportní vrstva
+  -  NAPØÍKLAD TCP A UDP ???? :D
+ 
+ Síová vrstva
+  - That formulation sucks, zkusil bych to nìjak pøeformulovat
