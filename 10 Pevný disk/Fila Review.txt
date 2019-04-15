@@ -1,0 +1,27 @@
+Princip
+ - Pohybem se na záznamové vrstvì vlivem magnetických pulsù se indukuje v cívce napìtí - jedno "se" navíc
+
+Parametry
+ - Pøidal bych rozhraní (USB, SATA, IDE...) - Máš ho sice dole, ale do parametrù se øadí
+
+Konfigurace HDD
+ - Co Master/Slave ? Pøidal bych ho taky
+ - ", tak že" - "takže" nebo "tak, že"
+ -
+ 
+Rozhraní
+
+ ATA
+  - Paralelní typ pøipojení pomocí 40pinového konektoru a 40 nebo 80 žilového kabelu. Dnes už je nahrazován sériovým SATA a øadièe pomalu mizí ze základních desek
+    - To si psal 10 let zpátky ? :D
+    - Dneska už ATU ani PATU na deskách nenajdeš
+
+ SATA
+  - Napsal bych proè je to 10bit, vím že se na to i Lochman bude ptát
+   - Pokud se nepletu, je to za úèelem snížení chybovosti pøenosu
+ 
+ Thunderbolt - doplnil bych ho, už jen z toho dùvodu, že na nìj zaèíná pøecházet i USB
+
+ SSHD
+  - Doplnil bych, žee kromì standartní cache kterou mají pevné disky má ještì velkou, vìtšinou SLC, cache.
+
