@@ -1,5 +1,12 @@
-﻿Definice
+Definice
  - 2*celkový počet bitů => 2^celkový počet bitů I GUESS
+ 
+Zlepšit formulaci věty:
+"Umožňují libovolné čtení i zápis dat. Paměti energeticky závislé. Paměti s přímým přístupem (DMA request) se označují jako paměti RAM (Random Access Memory) – častá chyba. "
+
+Synchronní DRAM a Single Data Rate - popsat rozdíly (často se plete
+
+Synchronní/asynchronní pamět chybí
 
 RAM
 
