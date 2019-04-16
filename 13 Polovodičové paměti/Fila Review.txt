@@ -1,0 +1,10 @@
+Definice
+ - 2*celkový poèet bitù => 2^celkový poèet bitù I GUESS
+
+DRAM Refresh
+  - Pokud vím, refresh je jen vlastnost, z toho zápisu který je teï to pøímo nevyplývá
+    - Jako èlovìk co o tom nic neví bych si myslel, že je to jen typ pamìti
+  - SDRAM - Rozepsal bych, ještì tak 2003-4 to bylo celkem bìžný, takže by se mohl zeptat
+  - Úrovnì bunìk
+    - Dopsal bych, že èím vyšší, tím vìtší kapacita, ale nižší životnost a rychlost
+    - MLC mají SLC jako cache, když se naplní, jejich rychlost jde rapidnì dolu 
