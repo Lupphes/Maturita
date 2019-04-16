@@ -1,16 +1,17 @@
-Definice
- - 2*celkovı poèet bitù => 2^celkovı poèet bitù I GUESS
+ï»¿Definice
+ - 2*celkovÃ½ poÄet bitÅ¯ => 2^celkovÃ½ poÄet bitÅ¯ I GUESS
 
 RAM
 
   DRAM Refresh
-    - Pokud vím, refresh je jen vlastnost, z toho zápisu kterı je teï to pøímo nevyplıvá
-      - Jako èlovìk co o tom nic neví bych si myslel, e je to jen typ pamìti
-    - SDRAM - Rozepsal bych, ještì tak 2003-4 to bylo celkem bìnı, take by se mohl zeptat
+    - Pokud vÃ­m, refresh je jen vlastnost, z toho zÃ¡pisu kterÃ½ je teÄ to pÅ™Ã­mo nevyplÃ½vÃ¡
+      - Jako ÄlovÄ›k co o tom nic nevÃ­ bych si myslel, Å¾e je to jen typ pamÄ›ti
+    - SDRAM - Rozepsal bych, jeÅ¡tÄ› tak 2003-4 to bylo celkem bÄ›Å¾nÃ½, takÅ¾e by se mohl zeptat
 
 
-  Parametry RAM pamìtí
-    - Úrovnì bunìk
-      - Dopsal bych, e èím vyšší, tím vìtší kapacita, ale niší ivotnost a rychlost
-      - Víceúrovòové mají SLC jako cache, kdy se naplní, jejich rychlost jde rapidnì dolù
-    - Èasování - napsal bych co znam
+  Parametry RAM pamÄ›tÃ­
+    - ÃšrovnÄ› bunÄ›k
+      - Dopsal bych, Å¾e ÄÃ­m vyÅ¡Å¡Ã­, tÃ­m vÄ›tÅ¡Ã­ kapacita, ale niÅ¾Å¡Ã­ Å¾ivotnost a rychlost
+      - VÃ­ceÃºrovÅˆovÃ© majÃ­ SLC jako cache, kdyÅ¾ se naplnÃ­, jejich rychlost jde rapidnÄ› dolÅ¯
+    - ÄŒasovÃ¡nÃ­ - napsal bych co znamenÃ¡
+
