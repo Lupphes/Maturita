@@ -1,0 +1,11 @@
+Kam zálohovat
+  - Chybí mi tu klasický domácí server
+  - NAS 
+    - Neuvìdomuju si, že by byla vyšší poøizovací cena
+    - Porovnat ho s klasickým serverem 
+  
+Verzovací souborové systémy
+  - Vzít jich víc a porovnat
+    - Napø GIT, CVS, SVN
+
+Celkovì bych to více sladil s osnovou od Lochmana
