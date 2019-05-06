@@ -4,7 +4,7 @@
 04 - KFO - Done
 05 - KFO - Done
 06 - FO - Done
-07 - F
+07 - FO - Done
 08 - F
 09 - KO
 10 - F
