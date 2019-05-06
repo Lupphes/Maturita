@@ -1,0 +1,28 @@
+Definice
+Jedná se tedy o první – fyzickou vrstvu na které se implementace nachází a neupravuje žádnou jinou.
+- Což to za výrok? Co ostatní vrstvy? Jak je tohle myšleno?
+
+Proč tu není podkapitola s parametry?
+
+Rozdělení
+GSM - dané frekvence jsou dané jen pro ČR. Možná lepší obecně?
+
+IrDA Infrared Data Association
+Dosah má kolem 1 m. Half-duplexní komunikace – jedno určitě směr dat. Může být i rádiové. 
+- Což to za formulaci?
+
+Rádiové sítě
+Hlavička. Wat? Prosím trošku rozepsat, není to srozumitelné.
+
+Wifi
+Access point (nebo hotspot) je velký asi 20 m a mohou ho blokovat stěny apod.
+Taky máš doma 20 metrovej accesspoint? :D
+
+Bluetooth
+Vyhledává samo, komunikace mezi slaves
+Rozvést.
+
+WPA - rozšířit o varianty PSK,.. (Fíla se cca. vyzná)
+
+Bezpečnostní služby
+Prosím lehce rozepsat, aby měl člověk představu.

@@ -1,0 +1,51 @@
+Monitory
+  Druhy
+    - SED - Napsal bych na jakym principu funguje 
+  
+CRT
+  Typy
+    Inline 
+      - Nejrozšíøenìjší ? Pokud vím, tak u CRT obecnì se dnes nedá mluvit o nìjaké rozšíøenosti, doplnit jak si to myslel
+    Trinitron
+      - u obrazovky typY - typU :D
+      - Toto øešení s sebou nese problém - pásy masky jsou tenké a na celé výšce obrazovky se neudrží. Tento se øeší dvìma zpùsoby: 
+        - Ta formulace je taková divná (nebo možná jen já, IDK :D ), zkus nìjak doplnit jak se neudrží
+      - Maska pak pùsobí o nìco hrubším dojmem - jak se to projevuje ?
+  Poruchy obrazu
+    - pomìrnì NEjednoduše ponièen ? Pokud vím, staèí k tomu prùmìrný magnet
+    - Napsal bych jak se to seøizovalo
+
+  Parametry
+    - barevná bitová hloubka - napsal bych, že narozdíl od odstatních typù není omezená
+    - PPI - chybí mi tu
+    - Obnovovací freknvece - vertikální frekvence udává fps? To jakože zapnu BF5 na Intel HD 2000
+                             pøipojené k 144Hz monitoru a budu mít 144 fps ? :D
+    - Konektory - dopsat, že u CRT monitorù pøedevším VGA, u televizí SCART, Component atp.
+
+LCD
+  - S podsvícením vytváøí barvy - Jak?
+  Dìlení
+    Pasivní
+      - Pro adresaci JSOU k jednotlivým elektrodám JSOU vedeny vodièe
+    
+    Aktivní
+      - Co znamená, že mají vìtší setrvaènost? Mluvíœ tu o natáèení krystalù, ale pøitom si nezmínil proè se natáèejí
+     
+    TFT
+      - Jak funguje, co dìlá ?
+   
+  Princip
+    - Som z toho volaký pomatený, ta funkce tak jak je napsaná mi nic neøíká
+
+Parametry
+  - Úhlopøíèka - s vìtší velikosti klesá DPI (menší kvalita) - pøi stejném rezlišení
+  - Pomìr stran - doplnit
+  - Odezva - vysoká odezva vede ke ghostingu
+  - Lesklý vs Matný vs ANTI-REFLEXNÍ
+
+Projektory
+  CRT
+    - Barvy se skládají až na plátnì
+
+  
+  

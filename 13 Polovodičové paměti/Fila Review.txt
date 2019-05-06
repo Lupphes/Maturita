@@ -1,0 +1,24 @@
+Definice
+ - 2*celkový počet bitů => 2^celkový počet bitů I GUESS
+ 
+Zlepšit formulaci věty:
+"Umožňují libovolné čtení i zápis dat. Paměti energeticky závislé. Paměti s přímým přístupem (DMA request) se označují jako paměti RAM (Random Access Memory) – častá chyba. "
+
+Synchronní DRAM a Single Data Rate - popsat rozdíly (často se plete
+
+Synchronní/asynchronní pamět chybí
+
+RAM
+
+  DRAM Refresh
+    - Pokud vím, refresh je jen vlastnost, z toho zápisu který je teď to přímo nevyplývá
+      - Jako člověk co o tom nic neví bych si myslel, že je to jen typ paměti
+    - SDRAM - Rozepsal bych, ještě tak 2003-4 to bylo celkem běžný, takže by se mohl zeptat
+
+
+  Parametry RAM pamětí
+    - Úrovně buněk
+      - Dopsal bych, že čím vyšší, tím větší kapacita, ale nižší životnost a rychlost
+      - Víceúrovňové mají SLC jako cache, když se naplní, jejich rychlost jde rapidně dolů
+    - Časování - napsal bych co znamená
+

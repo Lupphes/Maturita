@@ -1,0 +1,42 @@
+Laptop
+  HW øešení notebookù
+    - Disky - dát, že HDD jsou vìtšinou 5400rpm
+    - Zmínil bych taky, že už mají vìtšinou HW øešení pro bluetooth, hot-spot atp.
+    - Chybí mi tu zmínka uživatelsky vymìnitelných komponent - komponenty které jdou vymìnit bez ztráty záruky
+    - Možná by bylo dobré zmínit, že se pro rùzné notebooky vytváøí rùzná øešení CPU a vlastnì chipsetu celkovì
+      - SoC, úsporná CPU, CPU s vysokým pøíkonem atp.
+
+  - Dopsal bych, že ty jednotlivé typy se dìlí podle pøedevším podle rozmìrù (velikost jako taková, váha, atp.) 
+    - Dopsal bych k tomu i ty mezní úhlopøíèky jednotlivých formátù
+ 
+Smartphone
+  - má nižší výkon než notebook - nemusí být nutnì pravdé
+  - Dopsal bych, že vìtšina funkcí je zde integrovaná do jednoho SoC - koukám že to máš dole, but anyway :D
+  - Architektura pøedevším ARM
+
+
+Tablet
+   Gaming tablet
+     - streamovaná data z PC - vim jak to myslíš, ale ta formulace je špatná
+
+Dotykové displeje
+  - napsal bych, kde se ty jednotlivé typy používají 
+  - trochu off-topic, ale nedalo by se to doplnit i k otázce 17 ?
+
+HW Øešení smartphones a tabletù
+  - baterie - ještì bych doplnil, že jsou rùzné standardy rychlonabíjení. Nejrozšíøenìjší je Quick charge (teï 3.0 myslím).
+  - GPU - Integrovaná v procesoru a [TADY TI NÌCO CHYBÍ]
+  - Doplnil bych zmínku o GPS
+
+OS mobilních telefonù
+  - Android
+    - Akorát ještì napiš, že každý výrobce má vìtšinou svoji derivaci
+
+  - BlackBerry
+    - Výhodou je pøedevším jeho zabezpeèení
+    - Používán pøedevším v Enterprise prostøedích
+   
+  - Windows Phone
+    - kde unifikoval Windows veškerÉ zaøízením - kde unifikoval Windows veškerÝM zaøízením
+   
+  
