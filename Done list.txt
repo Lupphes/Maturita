@@ -5,7 +5,7 @@
 05 - KFO - Done
 06 - FO - Done
 07 - FO - Done
-08 - F
+08 - FO - Done
 09 - KO
 10 - F
 11 - O
