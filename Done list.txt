@@ -1,28 +1,28 @@
-01 - KFO - Done
-02 - KFO - Done
+01 - KFO - Done *
+02 - KFO - Done *
 03 - KFO - není review
-04 - KFO - Done
-05 - KFO - Done
-06 - FO - Done
-07 - FO - Done
-08 - FO - Done
-09 - KO - Asi done :c 
-10 - FO - Done
+04 - KFO - Done *
+05 - KFO - Done *
+06 - FO - Done *
+07 - FO - Done *
+08 - FO - Done *
+09 - KO - Done *
+10 - FO - Done *
 11 - O
-12 - KFO - Done
-13 - KFO - Done
-14 - KFO - Done
+12 - KFO - Done *
+13 - KFO - Done * 
+14 - KFO - Done *
 15 - O
 16 - O
-17 - FO
-18 - FO
+17 - FO - Done *
+18 - FO - Done *
 19 - O
 20 - O
-21 - FO
+21 - FO - Done *
 22 - O
 23 - O
-24 - FO
-25 - FO
+24 - FO - Done *
+25 - FO - Done *
 26 - O
-27 - FO
+27 - FO - Done
 28 - O
