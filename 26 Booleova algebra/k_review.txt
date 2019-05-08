@@ -1,0 +1,6 @@
+1. JAKTOŽE NEMÁ Koňaříko-Lochmanův teorém VLASTNÍ PODKAPITOLU?! SHAME!
+
+2. Chybí mi tam De Morgan. Oba zákony potřebují svoje místo charakteristiku. (vzorec, vznik.. trošku kontextu)
+
+3. Bylo by fajn udělat nějakou tabulku u těch tranzistorů, která je bude porovnávat. Kvůli času ale spíš optional - jen by asi bylo zjevnější, jaké jsou mezi nimi rozdíly.
+

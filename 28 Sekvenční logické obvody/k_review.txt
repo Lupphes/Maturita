@@ -1,0 +1,5 @@
+Clock - Generování oscilátorem a krystalovou stabilizaci bych trošku lépe popsal - lidem, co vyloženě nejsou na fyziku by to mohlo dělat problém pochopit. 
+
+Rozdělení klopých obvodů. Myslím, že tohle rozdělení měl Jovan v prezentaci, jen si nejsem jist, jestli to je vůbec potřeba takhle kategorizovat. Moc hloubky.
+
+Silně doporučuju přidat odkaz na Koňaříkovy manuály, kde je spousta z těch obvodů už zapojená a člověk si tím pádem může objastnit jejich funkčnost. Osobně mi to docela pomohlo třeba u dělání vlastního čítače.
