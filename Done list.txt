@@ -12,17 +12,17 @@
 12 - KFO - Done *
 13 - KFO - Done * 
 14 - KFO - Done *
-15 - O
+15 - KO - Done
 16 - O
 17 - FO - Done *
 18 - FO - Done *
 19 - O
 20 - O
 21 - FO - Done *
-22 - O
+22 - KO - Done
 23 - O
-24 - FO - Done *
+24 - KFO - Done *
 25 - FO - Done *
-26 - O
+26 - KO - Done
 27 - FO - Done
-28 - O
+28 - KO - Done
